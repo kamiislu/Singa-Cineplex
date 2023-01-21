@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingaCineplex", "SingaCineplex\SingaCineplex.csproj", "{1BDD95EE-B1AE-4E61-A15C-80DCE4DD880B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDD95EE-B1AE-4E61-A15C-80DCE4DD880B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDD95EE-B1AE-4E61-A15C-80DCE4DD880B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDD95EE-B1AE-4E61-A15C-80DCE4DD880B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDD95EE-B1AE-4E61-A15C-80DCE4DD880B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F2A84A0-0093-4D47-8C24-B48203F7CEB4}
+	EndGlobalSection
+EndGlobal
